@@ -10,3 +10,5 @@ Pelo fato de o display do reprodutor de MP3 não mostrar o nome da música e sim
 Por exemplo, o arquivo "musica.mp3" será renomeado para "001 - musica.mp3" e o número 001 que está no começo do nome do arquivo é o mesmo que é mostrado no display do reprodutor de MP3, assim o usuário consegue saber qual música estará escolhendo para tocar já que conhece sua ordem de enumeração.
 
 Este programa também tem a capacidade de refazer a enumeração já feita anteriormente de acordo com qualquer modificação (inserção, deleção ou mudança de nome) de arquivos ou pastas na pasta raiz informada.
+
+![alt tag] (https://raw.githubusercontent.com/davidalain/AudioFileEnumerator/master/P_20160923_191841.jpg) 
