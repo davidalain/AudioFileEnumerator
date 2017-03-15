@@ -11,4 +11,4 @@ Por exemplo, o arquivo "musica.mp3" será renomeado para "001 - musica.mp3" e o 
 
 Este programa também tem a capacidade de refazer a enumeração já feita anteriormente de acordo com qualquer modificação (inserção, deleção ou mudança de nome) de arquivos ou pastas na pasta raiz informada.
 
-![alt tag] (https://raw.githubusercontent.com/davidalain/AudioFileEnumerator/master/P_20160923_191841.jpg) 
+![alt tag](https://raw.githubusercontent.com/davidalain/AudioFileEnumerator/master/P_20160923_191841.jpg) 
